@@ -1,6 +1,6 @@
 {
 	"name": "lesson5-meister0",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"description": "How to publish a project in NPM?",
 	"main": "index.js",
 	"scripts": {
