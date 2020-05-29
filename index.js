@@ -1,1 +1,4 @@
-console.log('Hello, world 2!');
+export function sayHi() {
+	console.log('Hello:)');
+	console.log('Made by Dmitry Ovchinnikov');
+}
