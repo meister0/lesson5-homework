@@ -1,4 +1,6 @@
-export function sayHi() {
-	console.log('Hello:)');
-	console.log('Made by Dmitry Ovchinnikov');
-}
+module.exports = {
+	sayHi: function () {
+		console.log('Hello:)');
+		console.log('Made by Dmitry Ovchinnikov');
+	},
+};
