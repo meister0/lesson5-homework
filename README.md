@@ -8,5 +8,5 @@
 
 ## How to:
 
-    const log = require('lesson5-meister0')
-    log.sayHi()
+    import { sayHi } from 'lesson5-meister0';
+    sayHi();
