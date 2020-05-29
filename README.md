@@ -4,5 +4,5 @@
 
 ## How to:
 
-    import { sayHi } from 'lesson5-meister0';
-    sayHi();
+    const log = require('lesson5-meister0');
+    log.sayHi();
